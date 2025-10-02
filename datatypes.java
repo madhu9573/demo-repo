@@ -10,6 +10,7 @@ public static void main(String[] args) {
     System.out.println(myLetter);
     System.out.println(myBool);
     System.out.println(myText);
+    abc
     
 }
 
