@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fordemo",
+            "request": "launch",
+            "mainClass": "first_loops.fordemo",
+            "projectName": "demo-repo_5847c08c"
+        },
+        {
+            "type": "java",
             "name": "demo",
             "request": "launch",
             "mainClass": "first_loops.demo",
