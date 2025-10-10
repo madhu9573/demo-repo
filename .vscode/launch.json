@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "first_loops.demo",
+            "projectName": "demo-repo_5847c08c"
+        },
+        {
+            "type": "java",
+            "name": "studentmanagementsystem",
+            "request": "launch",
+            "mainClass": "studentmanagementsystem",
+            "projectName": "demo-repo_5847c08c"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "demo-repo_5847c08c"
+        },
+        {
+            "type": "java",
+            "name": "Attach to Remote Program",
+            "request": "attach",
+            "hostName": "<The host name or ip address of remote debuggee>",
+            "port": "<debug port of remote debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "variabledemo",
+            "request": "launch",
+            "mainClass": "variabledemo",
+            "projectName": "demo-repo_5847c08c"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "demo-repo_5847c08c"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
