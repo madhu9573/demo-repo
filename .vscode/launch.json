@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "fordemo",
             "request": "launch",
             "mainClass": "first_loops.fordemo",
@@ -48,6 +49,12 @@
             "request": "launch",
             "mainClass": "Hello",
             "projectName": "demo-repo_5847c08c"
+=======
+            "name": "datatypes",
+            "request": "launch",
+            "mainClass": "datatypes",
+            "projectName": "demo-repo_1de05922"
+>>>>>>> 86e0c5aa366bacca9ba5841440ee9a70f1f698b7
         },
         {
             "name": "Attach to Chrome",
